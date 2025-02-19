@@ -124,3 +124,5 @@ Feel free to submit a pull request or report issues.
 
 ## **License**
 This project is open-source under the MIT License.
+
+---
